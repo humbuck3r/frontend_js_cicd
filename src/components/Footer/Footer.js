@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      heroku-testing master
+      heroku-testing 1
     </footer>
   );
 }
